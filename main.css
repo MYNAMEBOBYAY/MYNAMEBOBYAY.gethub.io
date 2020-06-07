@@ -1,0 +1,54 @@
+body {
+                background-color: aqua; 
+            }
+            ul li {
+                color: darkblue
+            }
+            ul li:hover {
+                color: blue
+            }
+            h1 {
+                color: red
+            }
+            h1:hover {
+                color: aliceblue
+            }
+            h2:hover {
+                color: blue
+            }
+            h2 {
+                color: darkblue
+            }
+a {
+    text-decoration: none
+}
+body {
+                
+            }
+            h1 {
+                color: darkblue
+            }
+            h2 {
+                color: darkblue
+            }
+            h1:hover {
+                color: blue
+            }
+            h2:hover {
+                color: blue
+            }
+a {
+    color: darkblue
+}
+a:hover {
+    color: blue
+}
+h4 {
+    color:darkblue
+}
+h4:hover {
+    color:blue
+}
+body {
+    background-image: linear-gradient(to left,blue,aqua);
+}
